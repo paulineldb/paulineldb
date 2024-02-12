@@ -4,18 +4,16 @@
 </div>
 
 ### :woman_technologist: About Me :
-I am Pauline (she/her), a Front-End Developer from France, living in the UK.
+I am Pauline (she/her), an aspiring Developer from France, living in the UK.
 
-:clipboard: I'm working on developping my skills in HTML, CSS and JavaScript through personal projects and online courses:
+:clipboard: I'm working on developing my skills in HTML, CSS, JavaScript and React through personal projects and online courses:
   - [x] Web Development Coding Bootcamp
-  - [ ] Codecademy Front-End Engineer Career Path (currently completing)
-
-:seedling: Currently learning React and Node.js 
+  - [ ] Codecademy Front-End Engineer Career Path (on hold)
 <br>
 
 :brain: Curious about programming and always seeking to learn new things!
 
-⚡ In my free time I play videogames, read loads of books (I promise they're ~~not~~ all Fantasy), and cook enough food to feed my entire neighbourhood.
+⚡ In my free time I play video games, read loads of books (I promise they're ~~not~~ all Fantasy), and cook enough food to feed my entire neighbourhood.
 <br>
 
 💬 Ask me about Dungeons & Dragons and who my main survivor is in Dead By Daylight.
